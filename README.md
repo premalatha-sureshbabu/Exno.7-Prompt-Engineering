@@ -24,7 +24,9 @@ Begin with a basic prompt that outlines primary vacation tasks.
 
 # Expected Output:
 ✅ Beach relaxation
+
 ✅ Snorkeling adventure
+
 ⛵ Sunset cruise experience
 
 ### Step 3: Enhance Prompt with Personal Context
