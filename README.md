@@ -22,7 +22,7 @@ Begin with a basic prompt that outlines primary vacation tasks.
 # Simple Prompt:
 “Plan my 1-week trip to the Maldives. Include beach time, snorkeling, and a sunset cruise.”
 
-# Expected Output:
+### Expected Output:
 ✅ Beach relaxation
 
 ✅ Snorkeling adventure
@@ -97,7 +97,7 @@ Introduce mood tracking, weather context, and motivational quotes.
 # Advanced Prompt:
 “Design a 7-day Maldives vacation schedule with relaxing mornings and adventurous afternoons. Include motivational travel quotes before each day. Activities: snorkeling, spa, dolphin watching, island hopping, sunset cruise, market visit. Assume good weather and moderate energy levels.”
 
-# Expected Output:
+### Expected Output:
 
 ### Day 1 – “Travel opens your heart, broadens your mind and fills your life with stories.”
 
@@ -156,11 +156,11 @@ Create reusable prompts for future vacations.
 # Output:
 Personalized Vacation Plan:
 
-Each day structured with a motivational quote, relaxing start, and adventurous finish
+->Each day structured with a motivational quote, relaxing start, and adventurous finish
 
-Variety of unique island experiences
+->Variety of unique island experiences
 
-Built-in buffer time for flexibility
+->Built-in buffer time for flexibility
 
 # Conclusion:
 This experiment demonstrates how language models like ChatGPT can help build customized vacation planning tools that adapt to user preferences, energy levels, and trip goals. The gradual evolution from basic prompts to highly tailored, engaging schedules showcases how prompt engineering can produce context-rich experiences—no code required.
